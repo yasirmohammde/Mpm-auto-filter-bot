@@ -11,9 +11,6 @@ class Translation(object):
 For More Details Click Help Button Below..
 JOIN 👉 @motionpicturemedia
 FOR MOVIES
-
-For More Details Click Help Button Below..
-@CrazyBotsz
 </i>"""    
     
     HELP_TEXT = """
